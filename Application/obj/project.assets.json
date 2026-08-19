@@ -1,11 +1,30 @@
 {
   "version": 4,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "Domain >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\RoyOh!\\.nuget\\packages\\": {},
@@ -14,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\Domain\\Domain.csproj",
-      "projectName": "Domain",
-      "projectPath": "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\Domain\\Domain.csproj",
+      "projectUniqueName": "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\Application\\Application.csproj",
+      "projectName": "Application",
+      "projectPath": "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\RoyOh!\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\Domain\\obj\\",
+      "outputPath": "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -39,7 +58,11 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\Domain\\Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

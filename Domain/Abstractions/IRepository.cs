@@ -6,7 +6,7 @@ namespace Domain.Abstractions
 {
     public interface IRepository<TEntity, TId> where TEntity : class
     {
-        Task<TEntity?> GetEntityAsync(TId id);
+        Task<TEntity?> GetByIdAsync(TId id);
 
         Task<IEnumerable<TEntity>> GetAllAsync();
 

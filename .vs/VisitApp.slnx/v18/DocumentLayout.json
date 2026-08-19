@@ -1,18 +1,22 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\RoyOh!\\source\\repos\\VisitApp\\",
+  "WorkspaceRootPath": "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\royoh!\\source\\repos\\visitapp\\domain\\abstractions\\icoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\abstractions\\icoderepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F2307E3-4F3E-4A67-BDAD-D5D31C78A8D2}|Solution Items{9F2307E3-4F3E-4A67-BDAD-D5D31C78A8D2}|C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{9F2307E3-4F3E-4A67-BDAD-D5D31C78A8D2}|Solution Items{9F2307E3-4F3E-4A67-BDAD-D5D31C78A8D2}|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\royoh!\\source\\repos\\visitapp\\domain\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F66262C-11ED-418E-8AFF-38712E61CEC8}|Application\\Application.csproj|c:\\users\\royoh!\\source\\repos\\visitappnet\\application\\usecases\\persons\\updatepersonusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F66262C-11ED-418E-8AFF-38712E61CEC8}|Application\\Application.csproj|solutionrelative:application\\usecases\\persons\\updatepersonusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|c:\\users\\royoh!\\source\\repos\\visitapp\\domain\\personentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E528BBC3-1C26-8C35-F682-23718816ADCD}|Domain\\Domain.csproj|solutionrelative:domain\\personentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2F66262C-11ED-418E-8AFF-38712E61CEC8}|Application\\Application.csproj|c:\\users\\royoh!\\source\\repos\\visitappnet\\application\\dtos\\persons\\updatepersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F66262C-11ED-418E-8AFF-38712E61CEC8}|Application\\Application.csproj|solutionrelative:application\\dtos\\persons\\updatepersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F66262C-11ED-418E-8AFF-38712E61CEC8}|Application\\Application.csproj|c:\\users\\royoh!\\source\\repos\\visitappnet\\application\\usecases\\persons\\createpersonusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F66262C-11ED-418E-8AFF-38712E61CEC8}|Application\\Application.csproj|solutionrelative:application\\usecases\\persons\\createpersonusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,39 +35,53 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ICodeRepository.cs",
-              "DocumentMoniker": "C:\\Users\\RoyOh!\\source\\repos\\VisitApp\\Domain\\Abstractions\\ICodeRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Abstractions\\ICodeRepository.cs",
-              "ToolTip": "C:\\Users\\RoyOh!\\source\\repos\\VisitApp\\Domain\\Abstractions\\ICodeRepository.cs",
-              "RelativeToolTip": "Domain\\Abstractions\\ICodeRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-30T15:46:56.707Z",
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\.gitignore",
+              "RelativeDocumentMoniker": ".gitignore",
+              "ToolTip": "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\.gitignore",
+              "RelativeToolTip": ".gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-08-19T05:29:22.121Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "PersonEntity.cs",
-              "DocumentMoniker": "C:\\Users\\RoyOh!\\source\\repos\\VisitApp\\Domain\\PersonEntity.cs",
-              "RelativeDocumentMoniker": "Domain\\PersonEntity.cs",
-              "ToolTip": "C:\\Users\\RoyOh!\\source\\repos\\VisitApp\\Domain\\PersonEntity.cs",
-              "RelativeToolTip": "Domain\\PersonEntity.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA5wCgAAAAtAAAAAAAAAA==",
+              "Title": "UpdatePersonDto.cs",
+              "DocumentMoniker": "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\Application\\DTOs\\Persons\\UpdatePersonDto.cs",
+              "RelativeDocumentMoniker": "Application\\DTOs\\Persons\\UpdatePersonDto.cs",
+              "ToolTip": "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\Application\\DTOs\\Persons\\UpdatePersonDto.cs",
+              "RelativeToolTip": "Application\\DTOs\\Persons\\UpdatePersonDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-13T17:25:02.909Z"
+              "WhenOpened": "2026-08-19T05:22:37.949Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\RoyOh!\\source\\repos\\VisitApp\\Domain\\Abstractions\\IRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Abstractions\\IRepository.cs",
-              "ToolTip": "C:\\Users\\RoyOh!\\source\\repos\\VisitApp\\Domain\\Abstractions\\IRepository.cs",
-              "RelativeToolTip": "Domain\\Abstractions\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Title": "UpdatePersonUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\Application\\UseCases\\Persons\\UpdatePersonUseCase.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\Persons\\UpdatePersonUseCase.cs",
+              "ToolTip": "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\Application\\UseCases\\Persons\\UpdatePersonUseCase.cs",
+              "RelativeToolTip": "Application\\UseCases\\Persons\\UpdatePersonUseCase.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwB8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-07-16T19:14:38.109Z",
+              "WhenOpened": "2026-08-19T05:15:04.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CreatePersonUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\Application\\UseCases\\Persons\\CreatePersonUseCase.cs",
+              "RelativeDocumentMoniker": "Application\\UseCases\\Persons\\CreatePersonUseCase.cs",
+              "ToolTip": "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\Application\\UseCases\\Persons\\CreatePersonUseCase.cs",
+              "RelativeToolTip": "Application\\UseCases\\Persons\\CreatePersonUseCase.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T04:58:23.921Z",
               "EditorCaption": ""
             }
           ]
