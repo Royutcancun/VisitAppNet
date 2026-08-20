@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2F66262C-11ED-418E-8AFF-38712E61CEC8}|Application\\Application.csproj|c:\\users\\royoh!\\source\\repos\\visitappnet\\application\\usecases\\persons\\updatepersonusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F66262C-11ED-418E-8AFF-38712E61CEC8}|Application\\Application.csproj|solutionrelative:application\\usecases\\persons\\updatepersonusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{174C52E6-6D74-46A1-A753-D86867B5DD43}|Data\\Data.csproj|c:\\users\\royoh!\\source\\repos\\visitappnet\\data\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174C52E6-6D74-46A1-A753-D86867B5DD43}|Data\\Data.csproj|solutionrelative:data\\repositories\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F66262C-11ED-418E-8AFF-38712E61CEC8}|Application\\Application.csproj|c:\\users\\royoh!\\source\\repos\\visitappnet\\application\\dtos\\persons\\updatepersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F66262C-11ED-418E-8AFF-38712E61CEC8}|Application\\Application.csproj|solutionrelative:application\\dtos\\persons\\updatepersondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{174C52E6-6D74-46A1-A753-D86867B5DD43}|Data\\Data.csproj|c:\\users\\royoh!\\source\\repos\\visitappnet\\data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{174C52E6-6D74-46A1-A753-D86867B5DD43}|Data\\Data.csproj|solutionrelative:data\\data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2F66262C-11ED-418E-8AFF-38712E61CEC8}|Application\\Application.csproj|c:\\users\\royoh!\\source\\repos\\visitappnet\\application\\usecases\\persons\\createpersonusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2F66262C-11ED-418E-8AFF-38712E61CEC8}|Application\\Application.csproj|solutionrelative:application\\usecases\\persons\\createpersonusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{174C52E6-6D74-46A1-A753-D86867B5DD43}|Data\\Data.csproj|c:\\users\\royoh!\\source\\repos\\visitappnet\\data\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{174C52E6-6D74-46A1-A753-D86867B5DD43}|Data\\Data.csproj|solutionrelative:data\\persistence\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,50 +22,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UpdatePersonDto.cs",
-              "DocumentMoniker": "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\Application\\DTOs\\Persons\\UpdatePersonDto.cs",
-              "RelativeDocumentMoniker": "Application\\DTOs\\Persons\\UpdatePersonDto.cs",
-              "ToolTip": "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\Application\\DTOs\\Persons\\UpdatePersonDto.cs",
-              "RelativeToolTip": "Application\\DTOs\\Persons\\UpdatePersonDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAKAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-19T05:22:37.949Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UpdatePersonUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\Application\\UseCases\\Persons\\UpdatePersonUseCase.cs",
-              "RelativeDocumentMoniker": "Application\\UseCases\\Persons\\UpdatePersonUseCase.cs",
-              "ToolTip": "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\Application\\UseCases\\Persons\\UpdatePersonUseCase.cs",
-              "RelativeToolTip": "Application\\UseCases\\Persons\\UpdatePersonUseCase.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAAaAAAAAAAAAA==",
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\Data\\Repositories\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "Data\\Repositories\\PersonRepository.cs",
+              "ToolTip": "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\Data\\Repositories\\PersonRepository.cs",
+              "RelativeToolTip": "Data\\Repositories\\PersonRepository.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAuwFAAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-19T05:15:04.976Z",
+              "WhenOpened": "2026-08-20T19:36:45.343Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "CreatePersonUseCase.cs",
-              "DocumentMoniker": "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\Application\\UseCases\\Persons\\CreatePersonUseCase.cs",
-              "RelativeDocumentMoniker": "Application\\UseCases\\Persons\\CreatePersonUseCase.cs",
-              "ToolTip": "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\Application\\UseCases\\Persons\\CreatePersonUseCase.cs",
-              "RelativeToolTip": "Application\\UseCases\\Persons\\CreatePersonUseCase.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwA8AAAAjAAAAAAAAAA==",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\Data\\Persistence\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\Persistence\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\Data\\Persistence\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\Persistence\\ApplicationDbContext.cs",
+              "ViewState": "AgIAADYAAAAAAAAAAAAqwE8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-19T04:58:23.921Z",
+              "WhenOpened": "2026-08-20T18:11:49.14Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Data",
+              "DocumentMoniker": "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\Data\\Data.csproj",
+              "RelativeDocumentMoniker": "Data\\Data.csproj",
+              "ToolTip": "C:\\Users\\RoyOh!\\source\\repos\\VisitAppNet\\Data\\Data.csproj",
+              "RelativeToolTip": "Data\\Data.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-08-20T18:06:39.923Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             }
           ]
         }

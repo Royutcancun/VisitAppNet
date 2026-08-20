@@ -3,5 +3,6 @@
     <File Path=".gitignore" />
   </Folder>
   <Project Path="Application/Application.csproj" Id="2f66262c-11ed-418e-8aff-38712e61cec8" />
+  <Project Path="Data/Data.csproj" Id="174c52e6-6d74-46a1-a753-d86867b5dd43" />
   <Project Path="Domain/Domain.csproj" />
 </Solution>
